@@ -9,7 +9,7 @@ app.use(express.json());
 
 //Rotas de inicio
 app.get('/',(req,res)=>{
-    res.status(200).send('Api Burger');
+    res.status(200).send('Api Burger Vercel');
 });
 
 
