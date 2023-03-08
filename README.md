@@ -5,9 +5,9 @@
  
 
 
-<h1>Api--mongodb-burgers</h1>
-<p>Está api que criei foi com o objetivo de trabalhar junto com o projeto Burgers   </p>
-<p>Uma api construída com nodejs, conectada ao banco de dados mongodb  </p>
+<h1>Api-mongodb-burgers</h1>
+<p>Está api que criei foi com o objetivo de trabalhar junto com o projeto Burgers.  </p>
+<p>Uma api construída com nodejs, conectada ao banco de dados mongodb. </p>
 
 
 <h1>Tecnologias utilizadas </h1>
